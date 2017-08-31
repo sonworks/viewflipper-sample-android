@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/sonworks/Documents/ViewFlipper/app/build/intermediates/res/merged/debug/drawable/ic_launcher2.png",
+        "source": "/Users/sonworks/Documents/ViewFlipper/app/src/main/res/drawable/ic_launcher2.png"
+    },
+    {
+        "merged": "/Users/sonworks/Documents/ViewFlipper/app/build/intermediates/res/merged/debug/drawable/ic_launcher.png",
+        "source": "/Users/sonworks/Documents/ViewFlipper/app/src/main/res/drawable/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/sonworks/Documents/ViewFlipper/app/build/intermediates/res/merged/debug/drawable/ic_launcher3.png",
+        "source": "/Users/sonworks/Documents/ViewFlipper/app/src/main/res/drawable/ic_launcher3.png"
+    },
+    {
+        "merged": "/Users/sonworks/Documents/ViewFlipper/app/build/intermediates/res/merged/debug/drawable/ic_launcher1.png",
+        "source": "/Users/sonworks/Documents/ViewFlipper/app/src/main/res/drawable/ic_launcher1.png"
+    }
+]

@@ -1,0 +1,7 @@
+#Thu Aug 31 17:07:20 JST 2017
+base.0=/Users/sonworks/Documents/ViewFlipper/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_ada5baec748704220804a2f1506f843b052f8b15
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/sonworks/Documents/ViewFlipper/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_23fe613aabafcf355ed8ddb50fcc71b8c1207a8a/classes.dex
+base.1=/Users/sonworks/Documents/ViewFlipper/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_23fe613aabafcf355ed8ddb50fcc71b8c1207a8a
+file.0=/Users/sonworks/Documents/ViewFlipper/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_ada5baec748704220804a2f1506f843b052f8b15/classes.dex

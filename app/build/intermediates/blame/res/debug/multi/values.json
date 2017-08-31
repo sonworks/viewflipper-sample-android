@@ -1,0 +1,38 @@
+[
+    {
+        "outputFile": "/Users/sonworks/Documents/ViewFlipper/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 54,
+                    "endOffset": 105
+                },
+                "from": {
+                    "file": "/Users/sonworks/Documents/ViewFlipper/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 121,
+                        "endColumn": 54,
+                        "endOffset": 171
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 110,
+                    "endColumn": 60,
+                    "endOffset": 166
+                },
+                "from": {
+                    "file": "/Users/sonworks/Documents/ViewFlipper/app/src/main/res/values/strings.xml"
+                }
+            }
+        ]
+    }
+]
